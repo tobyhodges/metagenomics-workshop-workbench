@@ -8,13 +8,13 @@
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor training for instance)
 # incubator: The Carpentries Incubator
-carpentry: 'cp'
+carpentry: 'lab'
 
 # Overall title for pages.
 title: 'Metagenomics Workshop Overview'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ # FIXME
+created: 2021-05-27 # FIXME
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries' # FIXME
@@ -22,6 +22,8 @@ keywords: 'software, data, lesson, The Carpentries' # FIXME
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
 life_cycle: 'stable'
+
+doi: https://doi.org/10.21105/jose.00209
 
 # License of the lesson
 license: 'CC-BY 4.0'
@@ -58,17 +60,17 @@ contact: 'nselem@matmor.unam.mx'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - introduction.Rmd
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #

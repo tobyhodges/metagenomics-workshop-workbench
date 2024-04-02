@@ -67,7 +67,7 @@ More information about these data will be presented in the [first episode of the
 
 #### **Install a Bash terminal**
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## Windows
 
@@ -101,7 +101,7 @@ More information about these data will be presented in the [first episode of the
 
 :::::::::::::::::::::::::
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## macOS
 
@@ -110,7 +110,7 @@ More information about these data will be presented in the [first episode of the
 
 :::::::::::::::::::::::::
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## Linux
 
@@ -129,7 +129,7 @@ If you have difficulties with the installations or find better ways to install t
 
 To make a [Conda](https://conda.io/projects/conda/en/latest/index.html) environment, first, you need to install Conda. We recommend installing the [Miniconda3](https://docs.conda.io/en/latest/miniconda.html) version. Miniconda is a package manager that includes Conda and its dependencies and simplifies the installation process. Please first install Miniconda3 (installation instructions below) and then proceed to the installation of the environment.
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## Linux
 
@@ -138,7 +138,7 @@ To install miniconda3, see the [video tutorial](https://youtu.be/0PqwShSDH20)
 
 :::::::::::::::::::::::::
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## MacOSX
 
@@ -154,7 +154,7 @@ Then, follow the instructions that you are prompted with on the screen to instal
 
 :::::::::::::::::::::::::
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## WSL
 
@@ -167,7 +167,7 @@ See the video tutorial, [installing Miniconda3 on WSL Ubuntu](https://youtu.be/o
 
 Once your Miniconda3 is ready, follow these instructions to install and activate the metagenomics environment.
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## Linux: Option 1 (recommended)
 
@@ -183,7 +183,7 @@ More information about how to use environments and spec files is available at [c
 
 :::::::::::::::::::::::::
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## Linux: option 2
 
@@ -196,7 +196,7 @@ to your computer and follow the instructions in the [video tutorial](https://you
 
 :::::::::::::::::::::::::
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## MacOSX
 
@@ -211,7 +211,7 @@ $ conda env create -f metagenomics-macOS.yml
 
 :::::::::::::::::::::::::
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## WSL
 
@@ -248,7 +248,7 @@ R and RStudio are two separate pieces of software:
 
 R is a programming language that is especially powerful for data exploration, visualization, and statistical analysis RStudio is an integrated development environment (IDE) that makes using R easier. In this course, we use RStudio to interact with R.
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## Mac OS X
 
@@ -265,7 +265,7 @@ R is a programming language that is especially powerful for data exploration, vi
 
 :::::::::::::::::::::::::
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## Windows
 
@@ -280,7 +280,7 @@ R is a programming language that is especially powerful for data exploration, vi
 
 :::::::::::::::::::::::::
 
-:::::::::::::::  solution
+:::::::::::::::  spoiler
 
 ## Linux
 
