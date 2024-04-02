@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7713380.svg)](https://doi.org/10.5281/zenodo.7713380)
 
-[![The Carpentries Lab Review Status](http://badges.carpentries-lab.org/11_status.svg)](https://github.com/carpentries-lab/reviews/issues/11)
+[![The Carpentries Lab Review Status](https://badges.carpentries-lab.org/11_status.svg)](https://github.com/carpentries-lab/reviews/issues/11)
 
 # Metagenomics Workshop
 
@@ -19,11 +19,11 @@ All participants should agree to abide by [The Carpentries Code of Conduct](http
 
 Current maintainers of this lesson are
 
-* [Nelly Selem Mojica](https://github.com/nselem)
-* [Claudia Zirion Martinez](https://github.com/Czirion)
-* [Aaron Espinosa Jaime](https://github.com/aaronejaime)
-* [Jose Abel Lovaco Flores](https://github.com/fabel134)
-* [Diego Garfias Gallegos](https://github.com/Bedxxe)
+- [Nelly Selem Mojica](https://github.com/nselem)
+- [Claudia Zirion Martinez](https://github.com/Czirion)
+- [Aaron Espinosa Jaime](https://github.com/aaronejaime)
+- [Jose Abel Lovaco Flores](https://github.com/fabel134)
+- [Diego Garfias Gallegos](https://github.com/Bedxxe)
 
 ## Authors
 
@@ -35,9 +35,12 @@ A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 
 Please cite this repository as:
 
-Claudia Zirión Martínez; Diego Garfias Gallegos; Tania Vanessa Arellano Fernández; Aarón Espinosa Jaime; Edder D Bustos Díaz; José Abel Lovaco Flores; Luis Gerardo Tejero Gómez; J Abraham Avelar Rivas; Nelly Sélem (March , 2023) A Data Carpentry- Style Metagenomics Workshop https://doi.org/10.5281/zenodo.7713368
+Claudia Zirión Martínez; Diego Garfias Gallegos; Tania Vanessa Arellano Fernández; Aarón Espinosa Jaime; Edder D Bustos Díaz; José Abel Lovaco Flores; Luis Gerardo Tejero Gómez; J Abraham Avelar Rivas; Nelly Sélem (March , 2023) A Data Carpentry- Style Metagenomics Workshop [https://doi.org/10.5281/zenodo.7713368](https://doi.org/10.5281/zenodo.7713368)
 
 Please cite our manuscript [![DOI](https://jose.theoj.org/papers/10.21105/jose.00209/status.svg)](https://doi.org/10.21105/jose.00209)
 
-## Acknowledgments  
+## Acknowledgments
+
 We thank UNAM for funding proyecto PAPIME "Desarrollo de material didáctico de Bioinformática con énfasis en metagenómica para las modalidades presencial y virtual"
+
+
